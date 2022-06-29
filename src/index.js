@@ -27,6 +27,16 @@ export class App extends React.Component {
     return (
       <div className="App  ">
         <h1>
+          <span
+            style={{
+              color:
+                "orange"
+            }}
+          >
+            STARTUP
+            TALKY{" "}
+          </span>
+          <br />
           SPIN TO
           WIN
         </h1>

@@ -48,9 +48,7 @@ export default class Wheel extends React.Component {
       setTimeout(
         () => {
           MySwal.fire(
-            "Custom image",
             "Congratulations!!",
-
             this
               .props
               .items[
